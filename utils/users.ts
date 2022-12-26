@@ -1,0 +1,22 @@
+export const Users = [
+    { id: 1, name: "Name-01", lastname: "LastName-01"},
+    { id: 2, name: "Name-02", lastname: "LastName-02"},
+    { id: 3, name: "Name-03", lastname: "LastName-03"},
+    { id: 4, name: "Name-04", lastname: "LastName-04"},
+    { id: 5, name: "Name-05", lastname: "LastName-05"},
+    { id: 6, name: "Name-06", lastname: "LastName-06"},
+    { id: 7, name: "Name-07", lastname: "LastName-07"},
+    { id: 8, name: "Name-08", lastname: "LastName-08"},
+    { id: 9, name: "Name-09", lastname: "LastName-09"},
+    { id: 10, name: "Name-10", lastname: "LastName-10"},
+    { id: 11, name: "Name-11", lastname: "LastName-11"},
+    { id: 12, name: "Name-12", lastname: "LastName-12"},
+    { id: 13, name: "Name-13", lastname: "LastName-13"},
+    { id: 14, name: "Name-14", lastname: "LastName-14"},
+    { id: 15, name: "Name-15", lastname: "LastName-15"},
+    { id: 16, name: "Name-16", lastname: "LastName-16"},
+    { id: 17, name: "Name-17", lastname: "LastName-17"},
+    { id: 18, name: "Name-18", lastname: "LastName-18"},
+    { id: 19, name: "Name-19", lastname: "LastName-19"},
+    { id: 20, name: "Name-20", lastname: "LastName-20"}
+];
